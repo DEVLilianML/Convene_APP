@@ -1,0 +1,220 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+  }
+  
+  body {
+    background: gray;
+  }
+
+  
+.homenav {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+  }
+  
+.lefthomenav {
+    flex: 1;
+  }
+  
+.lefthomenav h3 {
+    color: #333333;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    margin-left: 50px;
+  }
+  
+.righthomenav {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  
+.righthomenav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+.righthomenav li {
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+  }
+
+.already{   
+    text-align: center;
+    padding-top: 20px;
+    color: #666666;
+    font-size: 14px;
+}
+
+.container{
+    position: absolute;
+    height: 65%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -45%);
+    z-index: 101;
+    background: #fff;
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.1);
+    margin-bottom: 20cm;
+}
+.createh1 {
+    font-size: 22px;
+    color: black;
+    text-align: center;
+    padding-bottom: 0.5cm;
+}
+
+label {
+    display: inline;
+    margin-top: 3px;
+}
+
+input{
+    padding: 5px;
+    background-color: #F5F5F5;
+    border: none;
+    height: 30px;
+    font-style: italic;
+    color: #999999;
+    border-radius: 5px;
+}
+
+input[type = "text"]{
+    width: 49%;
+    margin: 1px;
+    padding-left: 3px;
+}
+
+
+#lastname{
+    width: 50%;
+    padding: 18px;
+    
+}
+
+#firstname{
+    width: 48%;
+    padding: 18px;
+    margin-right: 5px;
+    
+}
+
+input[type = "email"]{
+    margin-top: 8px;
+    margin-bottom: 10px;
+    width: 100%;
+    padding-left: 2px;
+    color: #999999;
+    padding: 18px;
+}
+
+input[type="password"]{
+    margin: 2px;
+    width: 49%;
+    padding-left: 5px;
+}
+
+#password{
+    width: 100%;
+    padding: 18px;
+}
+
+#repeatPassword{
+    width: 100%;
+    margin-top: 8px;
+    padding: 18px;
+}
+
+.btn{
+    background-color: #089FE0;
+    text-align: center;
+    width: 65%;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 0.5cm;
+    font-size: medium;
+    margin-left: 2cm;
+}
+
+.checkbox{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.checkbox-label{
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.checkbox input[type="checkbox"] {
+    margin-right: 5px;
+    color: #666666;
+
+}
+
+.checkbox .span{
+    margin-left: 3px;
+}
+.copy{
+    text-align: center;
+    padding-top: 20px;
+    font-size: small;
+}
+
+.overallSignin {
+    margin: auto;
+    background-color: #F39494;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.2));
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    overflow-y: auto;
+}
+.welcome {
+    text-align: center;
+    padding: 0;
+    margin-top: 50px;
+    color: #333333;
+    font-weight: bold;
+} 
+.labelInput{
+    margin: 40px;
+}
+#username{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 100%;
+    padding-left: 5px;
+    color: #999999;
+}
+#signinPassword{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 100%;
+    padding-left: 5px;
+    color: #999999;
+}
+.signinLabelButton{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
