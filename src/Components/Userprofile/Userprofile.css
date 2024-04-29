@@ -1,0 +1,113 @@
+.profile {
+    background-color: papayawhip;
+    margin: 100px auto;
+    width: 582px;
+    height: 1200px;
+    border-radius: 10px;
+    padding: 30px;
+    
+  }
+  .welcomeTxt {
+    text-align: center;
+    padding: 15px;
+  }
+
+  .btnWrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .icon {
+    margin: 10px;
+    
+  }
+  h1, h2, p {
+    margin: 10px;
+  }
+
+   .duser{
+    background-color: lightskyblue;
+    padding : 20px;
+    
+   }
+  .userleftside {
+    height: 90%;
+    width: 50%;
+    margin-left: 15cm;
+    background-color: white;
+  }
+   .rightsideact {
+     width: 200cm;
+     background-color: white;
+     margin-left: 3cm;
+     height: 90%;
+  }
+  .newact {
+    padding-top: 20px;
+    border-radius: 6px;
+    margin-left: 10%;
+    width: 7cm;
+    margin-top: 1cm;
+   
+  }
+  
+  .profileTxtm {
+    background-color: lightskyblue;
+    margin-top: -10px;
+    padding: 20px;
+
+  }
+  .actBtn{
+    margin: 10px;
+    transform: translate(0,-70%);
+    padding: 2px;
+  }
+  .allevents {
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20cm;
+    transform: translate(-105%);
+  }
+.abegooo{
+  padding: 20px;
+  margin-top: 10px;
+  align-items: center;
+  margin-left: 20%;
+}
+.newEvents{
+  padding: 30px;
+  background-color: #176DEE;
+  color: #ffffff;
+  border-radius: 6px;
+  font-size: 12px;
+  height: 90cm;
+
+}
+
+.quelast {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  padding: 5px;
+  margin-top: 10px;
+  background-color: white;
+  color: #000000;
+  border-radius: 50px;
+  transform: translate(0, -90%);
+  
+}
+.dnum{
+  margin-left: 20%;
+}
+
+
+
+
+  
+  
+  
+  
+  
+ 

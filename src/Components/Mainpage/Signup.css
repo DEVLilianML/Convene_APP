@@ -1,0 +1,148 @@
+.signup-container {
+    font-family: Arial, sans-serif;
+    background-image: url("../Assets/ose.webp");
+    height: 15cm;
+  }
+  
+  .mainhomenav {
+    padding: 5px;
+  }
+  
+  .homenav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .lefthomenav h1 {
+    color: white;
+  }
+  
+  
+  .righthomenav ul {
+    list-style: none;
+    display: flex;
+    color: aliceblue;
+  }
+  
+  .righthomenav li {
+    margin-right: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    color: aliceblue;
+  }
+  .faz{
+    transform: translate(-2700%,210%);
+  }
+  .iconz{
+    transform: translate(0%,150%);
+  }
+  .createh1 {
+    text-align: center;
+    color: black;
+    padding: 10px;
+    font-size: x-large;
+    margin-bottom: -40px;
+  }
+
+  #newname{
+    width: 110%;
+    border-radius: 10px;
+    background-color: lightgrey;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.2));
+    
+}
+#oldname{
+  width:120%;
+  padding: 3px;
+  border-radius: 10px;
+  background-color: lightgrey;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.2));
+
+}
+.newstyle{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: -18px;
+}
+
+
+#nazword{
+  width: 120%;
+  margin-top: -0.2cm;
+  border-radius: 10px;
+  margin-left: -5%;
+  background-color: lightgrey;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.2));
+}
+
+#repeatnazword{
+    width: 120%;
+    margin-top: -0.2cm;
+    background-color: lightgrey;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.2));
+    border-radius: 10px;
+}
+
+.signupbtn{
+  background-color: blueviolet;
+  text-align: center;
+  width: 45%;
+  padding: 10px;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: medium;
+  margin-left: 4cm;
+  transform: translate(0, -70%);
+}
+  .btn:hover {
+    background-color: blueviolet;
+  }
+  
+  .already {
+    text-align: center;
+    color: black;
+    transform: translate(1%, -90%);
+  }
+  
+  .copy {
+    text-align: center;
+    color: black;
+    font-size: larger;
+    transform: translate(0, -190%);
+  }
+
+
+  .realform{
+    width: 15cm;
+    height: 11cm;
+    background-color: whitesmoke;
+    transform: translate(60%,5%);
+    border-radius: 10%;
+  }
+  #demail{
+    margin-top: -5%;
+    width: 98%;
+    border-radius: 10px;
+    background-color: lightgrey;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.2));
+  }
+
+  
+  .signupnaz{
+   
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: -18px;
+  }
+
+ ul > li { 
+   color: white;
+   
+  }
+  .righthomenav .navalls li a {
+    color: white;
+  }
+  

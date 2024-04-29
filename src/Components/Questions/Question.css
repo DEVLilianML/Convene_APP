@@ -1,0 +1,63 @@
+.userQueWrap {
+    width: 250px;
+    height: 130px;
+    font-size: 12px;
+    background-color: #176DEE;
+    color: #ffffff;
+    border-radius: 6px;
+    padding: 5px;
+  }
+  .que {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+
+  .queIconsWrap {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    padding: 5px;
+    margin-top: 10px;
+    background-color: #FFFEFE;
+    color: #000000;
+    border-radius: 50px;
+  }
+  .queWrap {
+    padding: 0 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 350px;
+    height: 680px;
+    background-color: #F9FAFB;
+    border-radius: 15px;
+    margin-left: 69%;
+    transform: translate(0, -200%);
+  }
+
+  
+.askQueWrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 36px;
+    border: 1px solid #000;
+    border-radius: 25px;
+    padding-bottom: 20px;
+    background-color: olive;
+  } 
+  .user {
+    border-radius: 50%;
+  }
+  
+  textarea {
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    border: none;
+    color: red;
+    text-align: center;
+  }

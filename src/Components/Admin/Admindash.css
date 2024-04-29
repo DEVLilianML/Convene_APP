@@ -1,0 +1,173 @@
+
+.generateCode button{
+  cursor: pointer;
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  /* background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.2));    border-radius: 10px; */
+  padding: 10px;
+  border: 3px solid blanchedalmond;
+  color: #ffffff;
+  width: 200px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-left: 15%;
+}
+.generateCode button:hover{
+  border: 2px solid whitesmoke;
+}
+.createMeetup button{
+  cursor: pointer;
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  /* background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.2));    border-radius: 10px; */
+  padding: 10px;
+  border: 3px solid blanchedalmond;
+  color: #ffffff;
+  width: 90%;
+  font-weight: bold;
+  margin-top: 29px;
+  margin-left: 5%;
+
+}
+.upcomingEvents {
+  padding: 30px;
+  background-color: #176DEE;
+  color: #ffffff;
+  border-radius: 6px;
+  margin-top: 20px;
+  font-size: 12px;
+  width: 500px;
+}
+
+.eventFeed {
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.activities {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    height: 106%;
+  }
+  
+  
+  .profileTxt h3 {
+    background: none;
+    padding: 10px;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 10px;
+  }
+
+    
+.overallProfile {
+    background-color: rgb(43, 113, 245);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.2));
+    max-width: auto;
+    max-height: 1200px;
+    height: 800px;
+    margin: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  .profile {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: center;
+    background-color: #176DEE;
+    height: 80%;
+    
+  }
+  
+  .leftside {
+    height: 500px;
+    width: 60%;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin: 20px;
+    
+  }
+  .avater {
+    background: white;
+    padding: 20px;
+    height: 94%;
+  }
+  .avatar img {
+    background: none;
+    text-align: center;
+    width: 90px;
+  }
+  
+  .profileName {
+    background: none;
+    font-weight: bold;
+    font-size: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 10px;
+  }
+  .userDetails {
+    margin-top: 10px;
+    padding: 5px;
+    line-height: 40px;
+    background: none;
+  }
+  
+  .italic{
+    color: rgb(43, 113, 245);
+    background: none;
+    font-weight: bold;
+  }
+  
+  .bold {
+    background: none;
+    font-weight: bold;
+    font-size: 14;
+  }
+  .logOutButton {
+    margin-top: 40%;
+    text-align: center;
+  }
+  
+  .logOutButton button {
+    /* background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.2)); */
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    border: 3px solid blanchedalmond;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: -30%;
+    margin-left: 5%;
+  }
+  
+  .rightside {
+    height: 500px;
+    width: 30%;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin: 20px;
+    width: 60%;
+  }
+  
+  
+  .activities > #webinar{
+  
+  }
+  .conweb{
+    display: flex;
+    justify-content: center;
+    
+  }
+
+  fieldset{
+   border: none;
+  }

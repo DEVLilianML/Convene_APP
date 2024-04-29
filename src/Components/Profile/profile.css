@@ -1,0 +1,22 @@
+.profileNavWrapper {
+    width: 60px;   
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color:  #F9FAFB;
+    border-radius: 15px;
+    padding: 10px;
+    transform: translate(0, -103%);
+  
+}
+
+.icon {
+    margin: 10px;
+  }
+
+  .iconsWrap {
+    width: 50px;
+    height: 192px;
+    padding: 10px;
+  }

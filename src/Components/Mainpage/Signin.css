@@ -1,0 +1,96 @@
+.mysignin-container {
+    font-family: Arial, sans-serif;
+  }
+  
+  .signin {
+    background-color: #f39494;
+    padding: 20px;
+  }
+  
+  .overallSignin {
+    margin: auto;
+    background-color: #F39494;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.2));
+    display: flex;
+    width: 45%;
+    flex-direction: column;
+    min-height: 100vh;
+    overflow-y: auto;
+}
+.welcome {
+  text-align: center;
+  padding: 0;
+  margin-top: 50px;
+  color: #333333;
+  font-weight: bold;
+} 
+label{
+  padding: 5px;
+}
+
+
+.labelInput {
+    margin: 40px;
+  }
+
+  .signinLabelButton{
+    text-align: center;
+    margin-bottom: 10px;
+}
+#emailAddress{
+  width: 80%;
+  padding: 12px;
+  padding-left: 5px;
+  color: #999999;
+  border-radius: 10px;
+}
+#sipazword{
+  width: 80%;
+  padding: 2px;
+  padding-left: 5px;
+  color: #999999;
+  border-radius: 10px;
+}
+
+  
+  .btn{
+    background-color: #089FE0;
+    text-align: center;
+    width: 45%;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: -20px;
+}
+  
+  .btn:hover {
+    background-color: #057cad;
+  }
+  
+  .login {
+    text-align: center;
+    color: black;
+    margin-bottom: 20px;
+    font-size: larger;
+  }
+  
+  .already {
+    text-align: center;
+    margin-top: 20px;
+    color: #666;
+  }
+  
+  .already .span {
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  .copy {
+    text-align: center;
+    margin-top: 20px;
+    color: #999;
+    font-size: 12px;
+  }
+  
