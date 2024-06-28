@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/your-repository/static/css/main.40f94e4a.css",
-    "main.js": "/your-repository/static/js/main.0f79043e.js",
-    "static/media/3persons.png": "/your-repository/static/media/3persons.1e9ef3937d2d4eae133b.png",
-    "static/media/finegirl.png": "/your-repository/static/media/finegirl.d94b588447e0dc7d4cc9.png",
-    "static/media/ose.webp": "/your-repository/static/media/ose.eec963f2104b8976961c.webp",
-    "static/media/man beach.png": "/your-repository/static/media/man beach.1ca1cfce975dc41ce2da.png",
-    "static/media/bighair.png": "/your-repository/static/media/bighair.2c90460bdcaae35a589a.png",
-    "static/media/orange man.png": "/your-repository/static/media/orange man.afabf6267b9808a83aab.png",
-    "static/media/oyibo.png": "/your-repository/static/media/oyibo.62a9d43c5bf8fb617fd6.png",
-    "static/media/man on black.png": "/your-repository/static/media/man on black.b35cda779e3ebf17d372.png",
-    "index.html": "/your-repository/index.html",
-    "main.40f94e4a.css.map": "/your-repository/static/css/main.40f94e4a.css.map",
-    "main.0f79043e.js.map": "/your-repository/static/js/main.0f79043e.js.map"
+    "main.css": "/DEVLilianML/Convene_APP.git/static/css/main.a7bb3d81.css",
+    "main.js": "/DEVLilianML/Convene_APP.git/static/js/main.7a840ad1.js",
+    "static/media/3persons.png": "/DEVLilianML/Convene_APP.git/static/media/3persons.1e9ef3937d2d4eae133b.png",
+    "static/media/finegirl.png": "/DEVLilianML/Convene_APP.git/static/media/finegirl.d94b588447e0dc7d4cc9.png",
+    "static/media/ose.webp": "/DEVLilianML/Convene_APP.git/static/media/ose.eec963f2104b8976961c.webp",
+    "static/media/man beach.png": "/DEVLilianML/Convene_APP.git/static/media/man beach.1ca1cfce975dc41ce2da.png",
+    "static/media/bighair.png": "/DEVLilianML/Convene_APP.git/static/media/bighair.2c90460bdcaae35a589a.png",
+    "static/media/orange man.png": "/DEVLilianML/Convene_APP.git/static/media/orange man.afabf6267b9808a83aab.png",
+    "static/media/oyibo.png": "/DEVLilianML/Convene_APP.git/static/media/oyibo.62a9d43c5bf8fb617fd6.png",
+    "static/media/man on black.png": "/DEVLilianML/Convene_APP.git/static/media/man on black.b35cda779e3ebf17d372.png",
+    "index.html": "/DEVLilianML/Convene_APP.git/index.html",
+    "main.a7bb3d81.css.map": "/DEVLilianML/Convene_APP.git/static/css/main.a7bb3d81.css.map",
+    "main.7a840ad1.js.map": "/DEVLilianML/Convene_APP.git/static/js/main.7a840ad1.js.map"
   },
   "entrypoints": [
-    "static/css/main.40f94e4a.css",
-    "static/js/main.0f79043e.js"
+    "static/css/main.a7bb3d81.css",
+    "static/js/main.7a840ad1.js"
   ]
 }
