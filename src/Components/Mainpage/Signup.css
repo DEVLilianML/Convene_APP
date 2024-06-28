@@ -25,12 +25,7 @@
     color: aliceblue;
   }
   
-  .righthomenav li {
-    margin-right: 20px;
-    font-weight: bold;
-    cursor: pointer;
-    color: aliceblue;
-  }
+ 
   .faz{
     transform: translate(-2700%,210%);
   }
