@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/DEVLilianML/Convene_APP.git/static/css/main.a7bb3d81.css",
-    "main.js": "/DEVLilianML/Convene_APP.git/static/js/main.7a840ad1.js",
-    "static/media/3persons.png": "/DEVLilianML/Convene_APP.git/static/media/3persons.1e9ef3937d2d4eae133b.png",
-    "static/media/finegirl.png": "/DEVLilianML/Convene_APP.git/static/media/finegirl.d94b588447e0dc7d4cc9.png",
-    "static/media/ose.webp": "/DEVLilianML/Convene_APP.git/static/media/ose.eec963f2104b8976961c.webp",
-    "static/media/man beach.png": "/DEVLilianML/Convene_APP.git/static/media/man beach.1ca1cfce975dc41ce2da.png",
-    "static/media/bighair.png": "/DEVLilianML/Convene_APP.git/static/media/bighair.2c90460bdcaae35a589a.png",
-    "static/media/orange man.png": "/DEVLilianML/Convene_APP.git/static/media/orange man.afabf6267b9808a83aab.png",
-    "static/media/oyibo.png": "/DEVLilianML/Convene_APP.git/static/media/oyibo.62a9d43c5bf8fb617fd6.png",
-    "static/media/man on black.png": "/DEVLilianML/Convene_APP.git/static/media/man on black.b35cda779e3ebf17d372.png",
-    "index.html": "/DEVLilianML/Convene_APP.git/index.html",
-    "main.a7bb3d81.css.map": "/DEVLilianML/Convene_APP.git/static/css/main.a7bb3d81.css.map",
-    "main.7a840ad1.js.map": "/DEVLilianML/Convene_APP.git/static/js/main.7a840ad1.js.map"
+    "main.css": "/Convene_APP/static/css/main.5aa421a5.css",
+    "main.js": "/Convene_APP/static/js/main.250102ed.js",
+    "static/media/3persons.png": "/Convene_APP/static/media/3persons.1e9ef3937d2d4eae133b.png",
+    "static/media/finegirl.png": "/Convene_APP/static/media/finegirl.d94b588447e0dc7d4cc9.png",
+    "static/media/ose.webp": "/Convene_APP/static/media/ose.eec963f2104b8976961c.webp",
+    "static/media/man beach.png": "/Convene_APP/static/media/man beach.1ca1cfce975dc41ce2da.png",
+    "static/media/bighair.png": "/Convene_APP/static/media/bighair.2c90460bdcaae35a589a.png",
+    "static/media/orange man.png": "/Convene_APP/static/media/orange man.afabf6267b9808a83aab.png",
+    "static/media/oyibo.png": "/Convene_APP/static/media/oyibo.62a9d43c5bf8fb617fd6.png",
+    "static/media/man on black.png": "/Convene_APP/static/media/man on black.b35cda779e3ebf17d372.png",
+    "index.html": "/Convene_APP/index.html",
+    "main.5aa421a5.css.map": "/Convene_APP/static/css/main.5aa421a5.css.map",
+    "main.250102ed.js.map": "/Convene_APP/static/js/main.250102ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7bb3d81.css",
-    "static/js/main.7a840ad1.js"
+    "static/css/main.5aa421a5.css",
+    "static/js/main.250102ed.js"
   ]
 }
